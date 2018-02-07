@@ -15,7 +15,7 @@ public class Main {
 	
 	@Test
 	public void myTest() {
-		String message = "Test";
+		String message = "Test1";
 		assertNotNull(message);
 	}
 
