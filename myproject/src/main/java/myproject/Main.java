@@ -1,9 +1,5 @@
 package myproject;
 
-import static org.junit.Assert.assertNotNull;
-
-import org.junit.Test;
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -13,10 +9,4 @@ public class Main {
 
 	}
 	
-	@Test
-	public void myTest() {
-		String message = "Ciao";
-		assertNotNull(message);
-	}
-
 }
